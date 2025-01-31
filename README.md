@@ -1,18 +1,80 @@
 # Learning List
 
-# Technology Name
+# Typescript
 
 ## Resources
 
-- [Resource 1](link)
-- [Resource 2](link)
+- [Typescript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [Matt Pocock YT](https://www.youtube.com/c/mattpocockuk)
+- [TS Deep Dive](https://basarat.gitbook.io/typescript)
+- [Type Challenges](https://github.com/type-challenges/type-challenges)
 
 ## Progress Log
 
-- Date: What you learned/accomplished
-- Date: Challenges faced and solutions
+# GraphQL
 
-## Projects
+## Resources
 
-- Project 1: Description and link
-- Project 2: Description and link
+- [How to Graphql](https://www.howtographql.com/)
+- [Guild's Blog](https://the-guild.dev/blog/tag/graphql)
+
+## Progress Log
+
+# Software Architecture & Design & DDD
+
+## Resources
+
+- [Clean Code]
+- [Clean Architecture]
+- [Design Patterns in TS](https://refactoring.guru/design-patterns/typescript)
+- [Arjan Codes](https://www.youtube.com/c/ArjanCodes)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [DDD Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/)
+
+## Progress Log
+
+# Testing (TDD, BDD, Frontend)
+
+## Resources
+
+- [Kent C. Dodds Testing Tut](https://www.youtube.com/watch?v=GLSSRtnNY0g)
+- [Mehmet Pekcan Frontend Testing](https://www.youtube.com/watch?v=cLH_m11oEms&list=PLf3cxVeAm43_2CINQqyUVQCJ94ycC07uz)
+
+## Progress Log
+
+# Node.js
+
+## Resources
+
+- [Node.js Learn](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+- [Node School](https://nodeschool.io/)
+
+## Progress Log
+
+# Microservices & Advanced Concepts
+
+## Resources
+
+- [Martin Fowler's Blog (Microservices)](https://martinfowler.com/articles/microservices.html)
+- [gRPC Crash Course](https://www.youtube.com/watch?v=Yw4rkaTc0f8)
+- [OpenTelemetry](https://opentelemetry.io/docs/)
+
+## Progress Log
+
+# Nest.js
+
+## Resources
+
+- [Nest.js Docs](https://docs.nestjs.com/)
+- [Awesome Nest.js](https://github.com/nestjs/awesome-nestjs)
+
+## Progress Log
+
+# Micro Frontends
+
+## Resources
+
+- [Micro Frontends Blog](https://micro-frontends.org/)
+- [Luca Mezzalira's Talks (YouTube)](https://www.youtube.com/watch?v=BuRB3djraeM)
+
+## Progress Log
