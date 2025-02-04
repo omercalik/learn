@@ -58,6 +58,7 @@
 - [Martin Fowler's Blog (Microservices)](https://martinfowler.com/articles/microservices.html)
 - [gRPC Crash Course](https://www.youtube.com/watch?v=Yw4rkaTc0f8)
 - [OpenTelemetry](https://opentelemetry.io/docs/)
+- [Netflix Guide](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 
 ## Progress Log
 
