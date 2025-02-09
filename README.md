@@ -8,6 +8,7 @@
 - [Matt Pocock YT](https://www.youtube.com/c/mattpocockuk)
 - [TS Deep Dive](https://basarat.gitbook.io/typescript)
 - [Type Challenges](https://github.com/type-challenges/type-challenges)
+- [Effective Typescript)
 
 ## Progress Log
 
@@ -68,6 +69,8 @@
 
 - [Nest.js Docs](https://docs.nestjs.com/)
 - [Awesome Nest.js](https://github.com/nestjs/awesome-nestjs)
+- [Kelvin Mai tut](https://www.youtube.com/playlist?list=PLBeQxJQNprbiJm55q7nTAfhMmzIC8MWxc)
+- [Trilon Blog(creators of nestjs)](https://trilon.io/blog)
 
 ## Progress Log
 
